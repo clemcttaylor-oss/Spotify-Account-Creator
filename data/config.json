@@ -14,8 +14,8 @@
     },
 
     "follow_ids": {
-        "Account_IDs": ["account id1", "account id2", "account id 3 (u can put as many as you want)"],
-        "Playlist_IDs": ["playlist id1", "playlist id2 (u can put as many as you want)"],
+        "Account_IDs": ["31mqtat43a5rv465erbop6jtmuym?si=af26a6b2d5c349ec", "31op3kkdq7wb6vdbn27kyvf62nya?si=68f1e59c29cf43e4&nd=1&dlsi=220f669986f44ac1", "account id 3 (u can put as many as you want)"],
+        "Playlist_IDs": ["4QmBtEdQxU5FC0wcVotFLM?si=Fmw8dbmOR0CfHpQJxH6xwA&nd=1&dlsi=580676b048c043b8", "1eeCI6hXBgr6rX0Oo8mN0a?si=P2jxWtrLTqekqkESx8gdPw&nd=1&dlsi=c80a01064e2c4056"],
         "Artist_IDs": ["artist id1", "artist id (u can put as many as you want)"]
     },
 
